@@ -9,6 +9,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	printf("Hello world!\n");
 	-printf("Hello Mike");
 	+printf("Hello Mike Mikeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
+	printf("Hello Mike Mikeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
 
 	getchar();
 	return 0;
